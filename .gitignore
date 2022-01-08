@@ -1,1 +1,21 @@
 *.swp
+
+// files to be revisited
+0x0F-python-object_relational_mapping/10-model_state_my_get.py
+0x0F-python-object_relational_mapping/100-relationship_states_cities.py
+0x0F-python-object_relational_mapping/101-relationship_states_cities_list.py
+0x0F-python-object_relational_mapping/102-relationship_cities_states_list.py
+0x0F-python-object_relational_mapping/11-model_state_insert.py
+0x0F-python-object_relational_mapping/12-model_state_update_id_2.py
+0x0F-python-object_relational_mapping/13-model_state_delete_a.py
+0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py
+0x0F-python-object_relational_mapping/7-model_state_fetch_all.py
+0x0F-python-object_relational_mapping/8-model_state_fetch_first.py
+0x0F-python-object_relational_mapping/9-model_state_filter_a.py
+0x0F-python-object_relational_mapping/__pycache__/
+0x0F-python-object_relational_mapping/model_city.py
+0x0F-python-object_relational_mapping/relationship_city.py
+0x0F-python-object_relational_mapping/relationship_state.py
+0x0F-python-object_relational_mapping/tests/100-relationship_states_cities.sql
+0x0F-python-object_relational_mapping/tests/101-relationship_states_cities_list.sql
+0x0F-python-object_relational_mapping/tests/14-model_city_fetch_by_state.sql
