@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/node
 const request = require('request');
 const URL = process.argv[2];
 
@@ -8,5 +8,4 @@ request(URL, function (err, response) {
   } else {
     console.log('code: ' + response.statusCode);
   }
-  response.close();
 });
