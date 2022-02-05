@@ -22,3 +22,4 @@ In this project I learnt to read/write files and working with json files in pyth
 - [Book](https://automatetheboringstuff.com/)
 - [Youtube](https://www.youtube.com/watch?v=EukxMIsNeqU)
 - [realpython.com](https://realpython.com/lessons/python-unicode-overview/)
+- [JSON Serialization/Deserialization](https://realpython.com/python-json/)
