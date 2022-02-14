@@ -2,7 +2,7 @@
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 
-Learnt:
+## Learnt:
 - How to select HTML elements in JavaScript
 - How to select HTML elements with JQuery
 - What are differences between ID, class and tag name selectors
@@ -15,6 +15,7 @@ Learnt:
 - How to listen/bind to user events
 
 
-Resources:
+## Resources:
 [oscarotero.com](https://oscarotero.com/jquery/)
 [learn.jquery.com](https://learn.jquery.com/)
+
