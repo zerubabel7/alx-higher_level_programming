@@ -16,6 +16,6 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 
 ## Resources:
-[oscarotero.com](https://oscarotero.com/jquery/)
+[oscarotero.com](https://oscarotero.com/jquery/) <br>
 [learn.jquery.com](https://learn.jquery.com/)
 
