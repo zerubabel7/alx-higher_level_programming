@@ -15,5 +15,10 @@ if __name__ == "__main__":
                          passwd=sys.argv[2], db=sys.argv[3])
     c = db.cursor()
     c.execute("SELECT * FROM states WHERE name LIKE '{:s}' ORDER BY \
-        id ASC".format(sys.arg[4]))
-    [print(state) for state in c.fetchall()]
+        id ASC".format(sys.argv[4]))
+    states = c.fetchall()
+    for state in states:
+        if state[1] == sys.argv[4]:
+            print(state)
+    c.close()
+    db.close()
